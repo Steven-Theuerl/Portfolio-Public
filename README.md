@@ -79,8 +79,6 @@ You can check out her profile and work in the link attached to her name above.
 This is a public-facing portfolio repository intended for informational and showcase purposes only.  
 All content and source code are original works by **Steven Theuerl**.
 
-Unauthorized use or imitation, in whole or in part, will be treated as intellectual property theft and may result in legal action.
-
 If you're interested in collaboration or licensing, please contact me directly.
 
 **© 2025 Steven Theuerl. All rights reserved.**

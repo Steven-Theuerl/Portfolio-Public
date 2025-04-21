@@ -6,6 +6,12 @@ This portfolio site is a responsive, React-based platform built entirely from sc
 
 ---
 
+## 🌐 Live Site
+
+👉 [https://steventheuerl.xyz/](https://steventheuerl.xyz/)
+
+---
+
 ## 🔒 Code Access
 This repository is intended for portfolio and informational purposes only.  
 The source code is private and not included here.
@@ -43,13 +49,12 @@ please reach out directly to discuss access or licensing.
 - Serverless contact form powered by EmailJS  
 - Original animation & design created in Figma by my beautiful and talented wife  
 - Semantic routing using `react-router-dom`  
-- Brand-anchored user experience with custom character and styling  
+- Brand-anchored user experience with custom character and styling
+- A 100 performance score, 90+ on Accessibility, Best Practices, and SEO
 
----
 
-## 🌐 Live Site
+![image](https://github.com/user-attachments/assets/b8022357-d373-4d0a-a66a-2a6c6b8a7121)
 
-👉 [https://steventheuerl.xyz/](https://steventheuerl.xyz/)
 
 ---
 
@@ -73,11 +78,6 @@ You can check out her profile and work in the link attached to her name above.
 
 This is a public-facing portfolio repository intended for informational and showcase purposes only.  
 All content and source code are original works by **Steven Theuerl**.
-
-You are **NOT** permitted to:
-- Copy, clone, modify, or redistribute any part of this work.
-- Use this work as the basis for your own product or project.
-- Claim authorship of any part of this project.
 
 Unauthorized use or imitation, in whole or in part, will be treated as intellectual property theft and may result in legal action.
 
